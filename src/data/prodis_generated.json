@@ -1,0 +1,938 @@
+[
+  {
+    "kodeProdi": "86004",
+    "namaProdi": "S3 Administrasi Pendidikan",
+    "jenjang": "S3",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S3 Administrasi Pendidikan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "86204",
+    "namaProdi": "S1 Administrasi Pendidikan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Administrasi Pendidikan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "63002",
+    "namaProdi": "S3 Administrasi Publik",
+    "jenjang": "S3",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S3 Administrasi Publik",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "63101",
+    "namaProdi": "S2 Administrasi Publik",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Administrasi Publik",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54201",
+    "namaProdi": "S1 Agribisnis",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Agribisnis",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54245",
+    "namaProdi": "S1 Agrobisnis Perikanan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERIKANAN DAN ILMU KELAUTAN",
+    "namaKaprodi": "Kaprodi S1 Agrobisnis Perikanan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54211",
+    "namaProdi": "S1 Agroteknologi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Agroteknologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "62201",
+    "namaProdi": "S1 Akuntansi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS EKONOMI DAN BISNIS",
+    "namaKaprodi": "Kaprodi S1 Akuntansi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "62207",
+    "namaProdi": "S1 Akuntansi (Kampus Kab. Kep. Aru)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN KEPULAUAN ARU",
+    "namaKaprodi": "Kaprodi S1 Akuntansi (Kampus Kab. Kep. Aru)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "62206",
+    "namaProdi": "S1 Akuntansi (Kampus Kab. MBD)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN MALUKU BARAT DAYA",
+    "namaKaprodi": "Kaprodi S1 Akuntansi (Kampus Kab. MBD)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "11707",
+    "namaProdi": "Sp-1 Bedah",
+    "jenjang": "Spesialis",
+    "fakultas": "FAKULTAS KEDOKTERAN",
+    "namaKaprodi": "Kaprodi Sp-1 Bedah",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "86201",
+    "namaProdi": "S1 Bimbingan Dan Konseling",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Bimbingan Dan Konseling",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54207",
+    "namaProdi": "S1 Bioteknologi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Bioteknologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54243",
+    "namaProdi": "S1 Budidaya Perairan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERIKANAN DAN ILMU KELAUTAN",
+    "namaKaprodi": "Kaprodi S1 Budidaya Perairan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "60201",
+    "namaProdi": "S1 Ekonomi Pembangunan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS EKONOMI DAN BISNIS",
+    "namaKaprodi": "Kaprodi S1 Ekonomi Pembangunan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "63102",
+    "namaProdi": "S2 Ekonomi Terapan",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Ekonomi Terapan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "48201",
+    "namaProdi": "S1 Farmasi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Farmasi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "45201",
+    "namaProdi": "S1 Fisika",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Fisika",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "13211",
+    "namaProdi": "S1 Gizi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Gizi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "74204",
+    "namaProdi": "S1 Hukum (Kampus Kab. Kep. Aru)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN KEPULAUAN ARU",
+    "namaKaprodi": "Kaprodi S1 Hukum (Kampus Kab. Kep. Aru)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "74203",
+    "namaProdi": "S1 Hukum (Kampus Kab. MBD)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN MALUKU BARAT DAYA",
+    "namaKaprodi": "Kaprodi S1 Hukum (Kampus Kab. MBD)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "63201",
+    "namaProdi": "S1 Ilmu Administrasi Negara",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS ILMU SOSIAL DAN ILMU POLITIK",
+    "namaKaprodi": "Kaprodi S1 Ilmu Administrasi Negara",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "60101",
+    "namaProdi": "S2 Ilmu Ekonomi",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Ilmu Ekonomi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "74001",
+    "namaProdi": "S3 Ilmu Hukum",
+    "jenjang": "S3",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S3 Ilmu Hukum",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "74101",
+    "namaProdi": "S2 Ilmu Hukum",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Ilmu Hukum",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "74201",
+    "namaProdi": "S1 Ilmu Hukum",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS HUKUM",
+    "namaKaprodi": "Kaprodi S1 Ilmu Hukum",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54041",
+    "namaProdi": "S3 Ilmu Kelautan",
+    "jenjang": "S3",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S3 Ilmu Kelautan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54141",
+    "namaProdi": "S2 Ilmu Kelautan",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Ilmu Kelautan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54241",
+    "namaProdi": "S1 Ilmu Kelautan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERIKANAN DAN ILMU KELAUTAN",
+    "namaKaprodi": "Kaprodi S1 Ilmu Kelautan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "55201",
+    "namaProdi": "S1 Ilmu Komputer",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Ilmu Komputer",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "70201",
+    "namaProdi": "S1 Ilmu Komunikasi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS ILMU SOSIAL DAN ILMU POLITIK",
+    "namaKaprodi": "Kaprodi S1 Ilmu Komunikasi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "25201",
+    "namaProdi": "S1 Ilmu Lingkungan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Ilmu Lingkungan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "61001",
+    "namaProdi": "S3 Ilmu Manajemen",
+    "jenjang": "S3",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S3 Ilmu Manajemen",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "65201",
+    "namaProdi": "S1 Ilmu Pemerintahan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS ILMU SOSIAL DAN ILMU POLITIK",
+    "namaKaprodi": "Kaprodi S1 Ilmu Pemerintahan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "11766",
+    "namaProdi": "Sp-1 Ilmu Penyakit Dalam",
+    "jenjang": "Spesialis",
+    "fakultas": "FAKULTAS KEDOKTERAN",
+    "namaKaprodi": "Kaprodi Sp-1 Ilmu Penyakit Dalam",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54001",
+    "namaProdi": "S3 Ilmu Pertanian",
+    "jenjang": "S3",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S3 Ilmu Pertanian",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54108",
+    "namaProdi": "S2 Ilmu Pertanian",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Ilmu Pertanian",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54294",
+    "namaProdi": "S1 Ilmu Tanah",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Ilmu Tanah",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "12201",
+    "namaProdi": "S1 Kedokteran Gigi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEDOKTERAN",
+    "namaKaprodi": "Kaprodi S1 Kedokteran Gigi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "13242",
+    "namaProdi": "S1 Keselamatan dan Kesehatan Kerja",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Keselamatan dan Kesehatan Kerja",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "94202",
+    "namaProdi": "S1 Kewirausahaan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS EKONOMI DAN BISNIS",
+    "namaKaprodi": "Kaprodi S1 Kewirausahaan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "47102",
+    "namaProdi": "S2 Kimia",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Kimia",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54151",
+    "namaProdi": "S2 Manajemen Hutan",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Manajemen Hutan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "86131",
+    "namaProdi": "S2 Manajemen Pendidikan",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Manajemen Pendidikan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54242",
+    "namaProdi": "S1 Manajemen Sumber Daya Perairan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERIKANAN DAN ILMU KELAUTAN",
+    "namaKaprodi": "Kaprodi S1 Manajemen Sumber Daya Perairan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54145",
+    "namaProdi": "S2 Manajemen Sumberdaya Kelautan dan Pulau-pulau Kecil",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Manajemen Sumberdaya Kelautan dan Pulau-pulau Kecil",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "11716",
+    "namaProdi": "Sp-1 Obstetri dan Ginekologi",
+    "jenjang": "Spesialis",
+    "fakultas": "FAKULTAS KEDOKTERAN",
+    "namaKaprodi": "Kaprodi Sp-1 Obstetri dan Ginekologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "38201",
+    "namaProdi": "S1 Oseanografi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERIKANAN DAN ILMU KELAUTAN",
+    "namaKaprodi": "Kaprodi S1 Oseanografi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54246",
+    "namaProdi": "S1 Pemanfaatan Sumber Daya Perikanan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERIKANAN DAN ILMU KELAUTAN",
+    "namaKaprodi": "Kaprodi S1 Pemanfaatan Sumber Daya Perikanan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "86228",
+    "namaProdi": "S1 Pembangunan Sosial",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS ILMU SOSIAL DAN ILMU POLITIK",
+    "namaKaprodi": "Kaprodi S1 Pembangunan Sosial",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54293",
+    "namaProdi": "S1 Pemuliaan Tanaman",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Pemuliaan Tanaman",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "86904",
+    "namaProdi": "Profesi Pendidikan Guru",
+    "jenjang": "Profesi",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi Profesi Pendidikan Guru",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "12902",
+    "namaProdi": "Profesi Pendidikan Profesi Dokter Gigi",
+    "jenjang": "Profesi",
+    "fakultas": "FAKULTAS KEDOKTERAN",
+    "namaKaprodi": "Kaprodi Profesi Pendidikan Profesi Dokter Gigi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "88201",
+    "namaProdi": "S1 Pendidikan Bahasa Dan Sastra Indonesia",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Bahasa Dan Sastra Indonesia",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "88103",
+    "namaProdi": "S2 Pendidikan Bahasa Inggris",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Pendidikan Bahasa Inggris",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "88203",
+    "namaProdi": "S1 Pendidikan Bahasa Inggris",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Bahasa Inggris",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "882032",
+    "namaProdi": "S1 Pendidikan Bahasa Inggris (Kampus Kab. Kep. Aru)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN KEPULAUAN ARU",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Bahasa Inggris (Kampus Kab. Kep. Aru)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "882031",
+    "namaProdi": "S1 Pendidikan Bahasa Inggris (Kampus Kab. MBD)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN MALUKU BARAT DAYA",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Bahasa Inggris (Kampus Kab. MBD)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "88107",
+    "namaProdi": "S2 Pendidikan Bahasa Jerman",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Pendidikan Bahasa Jerman",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "84005",
+    "namaProdi": "S3 Pendidikan Biologi",
+    "jenjang": "S3",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S3 Pendidikan Biologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "84105",
+    "namaProdi": "S2 Pendidikan Biologi",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Pendidikan Biologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "11201",
+    "namaProdi": "S1 Pendidikan Dokter",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEDOKTERAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Dokter",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "87203",
+    "namaProdi": "S1 Pendidikan Ekonomi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Ekonomi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "84203",
+    "namaProdi": "S1 Pendidikan Fisika",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Fisika",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "87202",
+    "namaProdi": "S1 Pendidikan Geografi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Geografi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "86207",
+    "namaProdi": "S1 Pendidikan Guru Pendidikan Anak Usia Dini",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Guru Pendidikan Anak Usia Dini",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "86206",
+    "namaProdi": "S1 Pendidikan Guru Sekolah Dasar",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Guru Sekolah Dasar",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "862062",
+    "namaProdi": "S1 Pendidikan Guru Sekolah Dasar (kampus Kab. Kep. Aru)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN KEPULAUAN ARU",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Guru Sekolah Dasar (kampus Kab. Kep. Aru)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "862061",
+    "namaProdi": "S1 Pendidikan Guru Sekolah Dasar (Kampus Kab. MBD)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN MALUKU BARAT DAYA",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Guru Sekolah Dasar (Kampus Kab. MBD)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "852011",
+    "namaProdi": "S1 Pendidikan Jasmani (Kampus Kab. Kep. Aru)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN KEPULAUAN ARU",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Jasmani (Kampus Kab. Kep. Aru)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "85201",
+    "namaProdi": "S1 Pendidikan Jasmani, Kesehatan & Rekreasi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Jasmani, Kesehatan & Rekreasi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "84204",
+    "namaProdi": "S1 Pendidikan Kimia",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Kimia",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "86205",
+    "namaProdi": "S1 Pendidikan Luar Sekolah",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Luar Sekolah",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "84002",
+    "namaProdi": "S1 Pendidikan Matematika",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Matematika",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "84102",
+    "namaProdi": "S2 Pendidikan Matematika",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Pendidikan Matematika",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "84202",
+    "namaProdi": "S3 Pendidikan Matematika",
+    "jenjang": "S3",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S3 Pendidikan Matematika",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "842022",
+    "namaProdi": "S1 Pendidikan Matematika (Kampus Kab Kep. Aru)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN KEPULAUAN ARU",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Matematika (Kampus Kab Kep. Aru)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "842021",
+    "namaProdi": "S1 Pendidikan Matematika (Kampus Kab. MBD)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN MALUKU BARAT DAYA",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Matematika (Kampus Kab. MBD)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "87157",
+    "namaProdi": "S2 Pendidikan Pancasila dan Kewarganegaraan",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Pendidikan Pancasila dan Kewarganegaraan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "87205",
+    "namaProdi": "S1 Pendidikan Pancasila Dan Kewarganegaraan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Pancasila Dan Kewarganegaraan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "87201",
+    "namaProdi": "S1 Pendidikan Sejarah",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Sejarah",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54258",
+    "namaProdi": "S1 Pengelolaan Hutan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Pengelolaan Hutan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54105",
+    "namaProdi": "S2 Pengelolaan Lahan",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Pengelolaan Lahan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54203",
+    "namaProdi": "S1 Penyuluhan Pertanian",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Penyuluhan Pertanian",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "94205",
+    "namaProdi": "S1 Perdagangan Internasional",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS EKONOMI DAN BISNIS",
+    "namaKaprodi": "Kaprodi S1 Perdagangan Internasional",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "35201",
+    "namaProdi": "S1 Perencanaan Wilayah dan Kota",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Perencanaan Wilayah dan Kota",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54231",
+    "namaProdi": "S1 Peternakan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Peternakan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54232",
+    "namaProdi": "S1 Peternakan (Kampus Kab. MBD)",
+    "jenjang": "S1",
+    "fakultas": "PSDKU KABUPATEN MALUKU BARAT DAYA",
+    "namaKaprodi": "Kaprodi S1 Peternakan (Kampus Kab. MBD)",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "11901",
+    "namaProdi": "Profesi Profesi Dokter",
+    "jenjang": "Profesi",
+    "fakultas": "FAKULTAS KEDOKTERAN",
+    "namaKaprodi": "Kaprodi Profesi Profesi Dokter",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "21300",
+    "namaProdi": "S1 Rekayasa Instrumentasi dan Otomasi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Rekayasa Instrumentasi dan Otomasi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54159",
+    "namaProdi": "S2 Rekayasa Kelautan",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Rekayasa Kelautan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "11312",
+    "namaProdi": "S1 Sains Biomedis",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Sains Biomedis",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "69101",
+    "namaProdi": "S1 Sosiologi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS ILMU SOSIAL DAN ILMU POLITIK",
+    "namaKaprodi": "Kaprodi S1 Sosiologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "69201",
+    "namaProdi": "S2 Sosiologi",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Sosiologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "34201",
+    "namaProdi": "S1 Teknik Geologi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Geologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "26201",
+    "namaProdi": "S1 Teknik Industri",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Industri",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "24201",
+    "namaProdi": "S1 Teknik Kimia",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Kimia",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "21201",
+    "namaProdi": "S1 Teknik Mesin",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Mesin",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "36201",
+    "namaProdi": "S1 Teknik Perkapalan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Perkapalan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "32201",
+    "namaProdi": "S1 Teknik Perminyakan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Perminyakan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "22201",
+    "namaProdi": "S1 Teknik Sipil",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Sipil",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "36202",
+    "namaProdi": "S1 Teknik Sistem Perkapalan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Sistem Perkapalan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "21207",
+    "namaProdi": "S1 Teknik Transportasi Laut",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Transportasi Laut",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54244",
+    "namaProdi": "S1 Teknologi Hasil Perikanan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERIKANAN DAN ILMU KELAUTAN",
+    "namaKaprodi": "Kaprodi S1 Teknologi Hasil Perikanan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "41231",
+    "namaProdi": "S1 Teknologi Hasil Pertanian",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Teknologi Hasil Pertanian",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "46201",
+    "namaProdi": "S1 Biologi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Biologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "33201",
+    "namaProdi": "S1 Teknik Geofisika",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS TEKNIK",
+    "namaKaprodi": "Kaprodi S1 Teknik Geofisika",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54101",
+    "namaProdi": "S2 Agribisnis",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Agribisnis",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "49201",
+    "namaProdi": "S1 Statistika",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Statistika",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "61201",
+    "namaProdi": "S2 Manajemen",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Manajemen",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "88207",
+    "namaProdi": "S1 Pendidikan Bahasa Jerman",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Bahasa Jerman",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "47201",
+    "namaProdi": "S1 Kimia",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Kimia",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "54251",
+    "namaProdi": "S1 Kehutanan",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS PERTANIAN",
+    "namaKaprodi": "Kaprodi S1 Kehutanan",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "84205",
+    "namaProdi": "S1 Pendidikan Biologi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Biologi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "87209",
+    "namaProdi": "S1 Pendidikan Akuntansi",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN",
+    "namaKaprodi": "Kaprodi S1 Pendidikan Akuntansi",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "44201",
+    "namaProdi": "S1 Matematika",
+    "jenjang": "S1",
+    "fakultas": "FAKULTAS SAINS DAN TEKNOLOGI",
+    "namaKaprodi": "Kaprodi S1 Matematika",
+    "cplList": []
+  },
+  {
+    "kodeProdi": "62101",
+    "namaProdi": "S2 Ilmu Akuntansi",
+    "jenjang": "S2",
+    "fakultas": "PROGRAM PASCASARJANA",
+    "namaKaprodi": "Kaprodi S2 Ilmu Akuntansi",
+    "cplList": []
+  }
+]

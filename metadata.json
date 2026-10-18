@@ -1,0 +1,8 @@
+{
+  "name": "DESAIN-RPSOBE - UKIM",
+  "description": "Generator Rencana Pembelajaran Semester (RPS) berbasis Outcome-Based Education (OBE) kurikulum UNPATTI dengan integrasi real-time API OpenAlex, World Bank, UN SDG, dan AI untuk otomatisasi pemetaan capaian pembelajaran mahasiswa secara akurat dan komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

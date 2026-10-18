@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@layer base {
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: #0f172a; }
+  ::-webkit-scrollbar-thumb { background: #334155; border-radius: 9999px; }
+  ::-webkit-scrollbar-thumb:hover { background: #475569; }
+}
+
+@page {
+  size: 216mm 356mm portrait;
+  margin: 10mm 12mm;
+}
+
+@media print {
+  html, body, #root { 
+    background: #ffffff !important; 
+    color: #000000 !important; 
+    font-size: 8.5pt !important;
+    height: auto !important;
+    min-height: auto !important;
+    overflow: visible !important;
+    position: static !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  .h-screen, .w-screen, main, div[class*="overflow-"] {
+    height: auto !important;
+    width: 100% !important;
+    overflow: visible !important;
+    position: static !important;
+    background: #ffffff !important;
+  }
+  .no-print, header, nav, aside { display: none !important; }
+  .print-only { display: block !important; }
+  .document-page { 
+    box-shadow: none !important; 
+    border: none !important; 
+    padding: 0 !important; 
+    margin: 0 !important;
+    width: 100% !important; 
+    max-width: 100% !important; 
+  }
+  .table-rps th, .table-rps td { 
+    border-color: #1e293b !important; 
+  }
+  .table-rps {
+    page-break-inside: auto;
+  }
+  .table-rps tr {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+}
+
+.table-rps { 
+  border-collapse: collapse; 
+  width: 100%; 
+  page-break-inside: auto;
+}
+.table-rps thead {
+  display: table-header-group;
+}
+.table-rps tr {
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+}
+.table-rps th, .table-rps td {
+  border: 0.75px solid #94a3b8;
+  padding: 5px 7px;
+  font-size: 9.5px;
+  line-height: 1.35;
+}
+.table-rps th {
+  background-color: #e2e8f0;
+  color: #0f172a;
+  font-weight: 800;
+  text-align: center;
+}
+
+#printableDocument {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}
+
+#printableDocument table,
+#printableDocument td,
+#printableDocument th {
+  border-color: #1e293b !important;
+}
+
+.html2pdf__page-break {
+  height: 0;
+  page-break-before: always;
+  break-before: page;
+}
+
